@@ -1,0 +1,4 @@
+PyQt6
+ffmpeg-python
+opencv-python
+pygame
