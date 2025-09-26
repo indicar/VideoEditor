@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+
+# Pycache files
+__pycache__/
+*.pyc
+
+# Application-generated files
+config.json
+temp_audio_*.wav
