@@ -8,3 +8,6 @@ __pycache__/
 # Application-generated files
 config.json
 temp_audio_*.wav
+
+# IDE files
+.idea/
